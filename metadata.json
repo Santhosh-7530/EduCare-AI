@@ -1,0 +1,7 @@
+{
+  "name": "EduCare AI: AI Study & Mind Companion",
+  "description": "A holistic productivity and mental wellness application featuring AI-driven study planning, real-time voice support, and mood-to-performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
